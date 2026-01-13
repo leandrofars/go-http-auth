@@ -1,5 +1,5 @@
 module github.com/abbot/go-http-auth
 
-go 1.14
+go 1.24.0
 
-require golang.org/x/crypto v0.1.0
+require golang.org/x/crypto v0.45.0
